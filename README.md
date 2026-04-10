@@ -1,2 +1,2 @@
 # football-database
-a unisversity project that demonstrates the disgne and implementation of a simple football   data base 
+A university project that demonstrates the designe and implementation of a simple football data base
